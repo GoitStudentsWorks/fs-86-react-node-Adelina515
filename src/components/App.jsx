@@ -40,7 +40,7 @@ export const App = () => {
   return (
     <>
       <Toaster />
-      <BrowserRouter basename="/project-frontEnd-05">
+      <BrowserRouter basename="/fs-86-react-node-Adelina515">
         <Routes>
           <Route path="/" element={<Layout />}>
             <Route
