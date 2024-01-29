@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fs-86-react-node-Adelina515/static/css/main.9407009c.css",
-    "main.js": "/fs-86-react-node-Adelina515/static/js/main.d42d17d4.js",
+    "main.js": "/fs-86-react-node-Adelina515/static/js/main.31128bd1.js",
     "static/css/172.c6a81a17.chunk.css": "/fs-86-react-node-Adelina515/static/css/172.c6a81a17.chunk.css",
     "static/js/172.1a7b8d2e.chunk.js": "/fs-86-react-node-Adelina515/static/js/172.1a7b8d2e.chunk.js",
     "static/css/220.8119aa04.chunk.css": "/fs-86-react-node-Adelina515/static/css/220.8119aa04.chunk.css",
@@ -32,7 +32,7 @@
     "static/media/productSuccessFruit.png": "/fs-86-react-node-Adelina515/static/media/productSuccessFruit.cef0af9cd428fb7948bc.png",
     "index.html": "/fs-86-react-node-Adelina515/index.html",
     "main.9407009c.css.map": "/fs-86-react-node-Adelina515/static/css/main.9407009c.css.map",
-    "main.d42d17d4.js.map": "/fs-86-react-node-Adelina515/static/js/main.d42d17d4.js.map",
+    "main.31128bd1.js.map": "/fs-86-react-node-Adelina515/static/js/main.31128bd1.js.map",
     "172.c6a81a17.chunk.css.map": "/fs-86-react-node-Adelina515/static/css/172.c6a81a17.chunk.css.map",
     "172.1a7b8d2e.chunk.js.map": "/fs-86-react-node-Adelina515/static/js/172.1a7b8d2e.chunk.js.map",
     "220.8119aa04.chunk.css.map": "/fs-86-react-node-Adelina515/static/css/220.8119aa04.chunk.css.map",
@@ -55,6 +55,6 @@
   },
   "entrypoints": [
     "static/css/main.9407009c.css",
-    "static/js/main.d42d17d4.js"
+    "static/js/main.31128bd1.js"
   ]
 }
